@@ -1,0 +1,14 @@
+export const imgLogo = require('./images/splash_logo.png');
+export const imgFamily = require('./images/img_family.png');
+export const imgLogoSmall = require('./images/img_logo_small.png');
+export const imgHomeAppointments = require('./images/img_home_appointments.png');
+export const imgHomePregnancy = require('./images/img_home_pregnancy.png');
+export const imgHomeHealthRecords = require('./images/img_home_health_records.png');
+export const imgHomeChildren = require('./images/img_home_children.png');
+export const imgHomeNearbyHealthCenters = require('./images/img_home_nearby_health_centers.png');
+export const imgHomeEmergencyCall = require('./images/img_home_emergency_call.png');
+export const imgHomeHealthTipsNews = require('./images/img_home_health_tips_news.png');
+export const imgHomeSettings = require('./images/img_home_settings.png');
+export const imgFacebook = require('./images/img_fb.png');
+export const imgFacebookFlipped = require('./images/img_fb_flipped.png');
+export const gifLoading = require('./images/ic_loading.gif');

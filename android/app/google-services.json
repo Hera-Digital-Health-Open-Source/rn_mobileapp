@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": {Replace with actual value},
+    "project_id": {Replace with actual value},
+    "storage_bucket": {Replace with actual value}
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": {Replace with actual value},
+        "android_client_info": {
+          "package_name": {Replace with actual value}
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": {Replace with actual value},
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": {Replace with actual value}
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": {Replace with actual value},
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
